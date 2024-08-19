@@ -6,3 +6,5 @@ yo
 joshua's second commit
 
 feature first line
+
+feature second line
