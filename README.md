@@ -1,9 +1,10 @@
 git workshop collab
 
 hello xuan wei
-<<<<<<< HEAD
 yo
-=======
 
 joshua's second commit
->>>>>>> refs/remotes/origin/main
+
+feature first line
+
+feature second line
